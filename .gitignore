@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Mac .DS_Store
+*.DS_Store
+*/Lessons/.DS_Store
+.DS_Store
+
+# Add personal file folder
+personalFiles/
